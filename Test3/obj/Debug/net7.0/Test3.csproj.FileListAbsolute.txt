@@ -1,0 +1,15 @@
+P:\SEWAHITS\Test3\bin\Debug\net7.0\Test3.exe
+P:\SEWAHITS\Test3\bin\Debug\net7.0\Test3.deps.json
+P:\SEWAHITS\Test3\bin\Debug\net7.0\Test3.runtimeconfig.json
+P:\SEWAHITS\Test3\bin\Debug\net7.0\Test3.dll
+P:\SEWAHITS\Test3\bin\Debug\net7.0\Test3.pdb
+P:\SEWAHITS\Test3\obj\Debug\net7.0\Test3.csproj.AssemblyReference.cache
+P:\SEWAHITS\Test3\obj\Debug\net7.0\Test3.GeneratedMSBuildEditorConfig.editorconfig
+P:\SEWAHITS\Test3\obj\Debug\net7.0\Test3.AssemblyInfoInputs.cache
+P:\SEWAHITS\Test3\obj\Debug\net7.0\Test3.AssemblyInfo.cs
+P:\SEWAHITS\Test3\obj\Debug\net7.0\Test3.csproj.CoreCompileInputs.cache
+P:\SEWAHITS\Test3\obj\Debug\net7.0\Test3.dll
+P:\SEWAHITS\Test3\obj\Debug\net7.0\refint\Test3.dll
+P:\SEWAHITS\Test3\obj\Debug\net7.0\Test3.pdb
+P:\SEWAHITS\Test3\obj\Debug\net7.0\Test3.genruntimeconfig.cache
+P:\SEWAHITS\Test3\obj\Debug\net7.0\ref\Test3.dll
